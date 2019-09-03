@@ -1,0 +1,49 @@
+<component name="libraryTable">
+  <library name="Maven: io.cucumber:cucumber-core:4.7.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/4.7.1/cucumber-core-4.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/4.7.1/cucumber-core-4.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/4.7.1/cucumber-core-4.7.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/cdi2/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/cdi2/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/core/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/core/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/examples/java-calculator-testng/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/examples/java-calculator-testng/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/examples/java-calculator/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/examples/java-calculator/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/examples/java-wicket/java-wicket-main/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/examples/java-wicket/java-wicket-main/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/examples/java-wicket/java-wicket-test/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/examples/java8-calculator/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/examples/java8-calculator/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/examples/spring-txn/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/examples/spring-txn/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/guice/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/guice/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/java8/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/java8/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/java/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/java/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/junit/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/junit/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/needle/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/needle/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/openejb/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/openejb/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/picocontainer/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/picocontainer/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/spring/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/spring/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/testng/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/testng/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/weld/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/cucumber-jvm-4.7.1/weld/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
