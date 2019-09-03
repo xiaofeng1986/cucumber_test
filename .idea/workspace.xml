@@ -397,6 +397,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Software/cucumber-jvm-4.7.1.zip!/" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -494,7 +495,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.39722222" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="11" sideWeight="0.49444443" side_tool="true" visible="true" weight="0.37777779" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49444443" side_tool="true" visible="true" weight="0.37777779" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.14109442" />
@@ -502,7 +503,7 @@
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven" order="7" visible="true" weight="0.21459228" />
+      <window_info active="true" anchor="right" id="Maven" order="7" visible="true" weight="0.21459228" />
     </layout>
   </component>
   <component name="editorHistoryManager">
