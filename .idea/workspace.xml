@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83ac73f0-e30b-48d2-9fc6-a53c0fea5a21" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hellocucumber/RunCucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hellocucumber/RunCucumberTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="83ac73f0-e30b-48d2-9fc6-a53c0fea5a21" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/hellocucumber/RunCucumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
-              <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/hellocucumber/Image_recongnize_steps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
-              <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#prepare_token#0;class#Image_recongnize_steps#0" />
@@ -286,68 +283,6 @@
             </path>
             <path>
               <item name="hellocucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hellocucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hellocucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hellocucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hellocucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hellocucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="hellocucumber" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hellocucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hellocucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hellocucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hellocucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hellocucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hellocucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hellocucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hellocucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-compiler-plugin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hellocucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hellocucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="surefire-reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hellocucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hellocucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hellocucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hellocucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="hellocucumber" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hellocucumber" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -540,7 +475,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7631579" visible="true" weight="0.25518134" />
       <window_info id="Structure" order="1" sideWeight="0.23684211" side_tool="true" visible="true" weight="0.25518134" />
@@ -560,7 +494,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.39722222" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49444443" side_tool="true" visible="true" weight="0.4722222" />
+      <window_info active="true" anchor="bottom" id="Run" order="11" sideWeight="0.49444443" side_tool="true" visible="true" weight="0.4722222" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.14109442" />
@@ -568,7 +502,7 @@
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info active="true" anchor="right" id="Maven" order="7" visible="true" weight="0.25906736" />
+      <window_info anchor="right" id="Maven" order="7" visible="true" weight="0.25906736" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -880,7 +814,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/hellocucumber/Image_recongnize_steps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#prepare_token#0;class#Image_recongnize_steps#0" />
@@ -891,7 +825,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/hellocucumber/RunCucumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
